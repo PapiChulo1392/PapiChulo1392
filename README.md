@@ -1,12 +1,14 @@
 # Hello, I'm Jonathan Rivera
 
-### SOC Analyst | Security+ Certified | SIEM & Log Analysis | Incident Response | Network Traffic Analysis
+### Security+ Certified Cybersecurity Analyst
 
-I am a cybersecurity analyst focused on security operations, threat detection, and incident investigation. I have hands-on experience building security labs, analyzing Windows and Active Directory activity, investigating Sysmon telemetry, writing Splunk searches, and examining network traffic. I enjoy the investigative side of cybersecurity and documenting clear, evidence-based findings that help protect people, systems, and data.
+I became interested in cybersecurity because it combines two things I have always enjoyed: technology and investigations. My father was a detective, so I grew up fascinated by how he followed evidence and solved cases. Since I have always been comfortable working with computers, SOC work felt like a natural fit.
+
+This GitHub is where I share the labs and projects I have built as I continue growing in cybersecurity.
 
 ## Objective
 
-To contribute as a SOC Analyst by monitoring security alerts, investigating endpoint, identity, and network activity, and supporting effective incident response. I am continuing to strengthen my detection and investigation skills through hands-on labs involving Splunk, Sysmon, Windows Event Logs, Active Directory, Wireshark, and related blue-team tools.
+My goal is to continue growing as a SOC Analyst while using my investigative mindset and technical skills to identify suspicious activity, understand what happened, and help protect an organization. I am building practical experience through hands-on security labs, log analysis, and incident investigation projects.
 
 ## Skills
 
